@@ -1,0 +1,5 @@
+<launch>
+	<node name="simulator" pkg="stage_ros" type="stageros" args="$(find second_assignment)/world/my_world.world" />
+	<node name="contr" pkg="controller_asm" type="controller_n" output="screen" />
+	<node name="usercontr" pkg="controller_asm" type="controller_n1" />
+</launch>
