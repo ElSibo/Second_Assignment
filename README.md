@@ -103,7 +103,7 @@ $ mkdir –p/my_ros_ws/src
 Dowload the folder where there are the node, Cmakelist, pakage and the launch file;
 
 ```bash
-
+$ git clone https://github.com/ElSibo/Second_Assignment.git
 ```
 You must be go inside the folder(the same folder where is present the lunch file),
 if you want to launch the simulato whit launch file and not manualy.
