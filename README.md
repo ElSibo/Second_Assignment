@@ -110,5 +110,6 @@ if you want to launch the simulato whit launch file and not manualy.
 In the end enter this:
 
 ```bash
+$ cd controller_asm/src
 $ roslaunch launch.launch
 ```
