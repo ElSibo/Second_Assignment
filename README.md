@@ -43,8 +43,8 @@ _______________________________________
 Declared global variable a who represent speed;                                         
 Declared publisher pub;                                         
 Defined the function setspeed(char w) that the input from user,                                         
-and if this input is “e”/”d”/”r” send an inter to the other node to increase/decrease/reset speed and give ta user,                     
-information about speed; 
+and if this input is “e”/”d”/”r” send an inter to the other node to increase/decrease/reset speed and,                         
+give to user information about speed; 
 
 ______________
 In the main():
@@ -106,7 +106,7 @@ Dowload the folder where there are the node, Cmakelist, pakage and the launch fi
 $ git clone https://github.com/ElSibo/Second_Assignment.git
 ```
 You must be go inside the folder(the same folder where is present the lunch file),
-if you want to launch the simulato whit launch file and not manualy.
+if you want to launch the simulato whit launch file and not manualy.                                 
 In the end enter this:
 
 ```bash
