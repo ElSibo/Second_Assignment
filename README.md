@@ -89,3 +89,26 @@ Defined the publisher pub;(the publisher send data to the node /stageros)
 Starting while a loop no endless; (ros::ok() it mean stop when we send signal to stop ctrl-c)                                         
 Defined the subscriber that use the function to menage the data.                                                                                  
 
+INSTALLING AND RUNNING:
+---
+_________
+
+
+After the installation of ROS,(I use a linux(Ubuntu 20.04) operator sistem), you shoud be create your work space;
+
+```bash
+$ mkdir –p/my_ros_ws/src
+ $ cd –p/my_ros_ws/src
+```
+Dowload the folder where there are the node, Cmakelist, pakage and the launch file;
+
+```bash
+
+```
+You must be go inside the folder(the same folder where is present the lunch file),
+if you want to launch the simulato whit launch file and not manualy.
+In the end enter this:
+
+```bash
+$ roslaunch launch.launch
+```
