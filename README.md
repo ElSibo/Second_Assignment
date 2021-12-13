@@ -113,3 +113,12 @@ In the end enter this:
 $ cd controller_asm/src
 $ roslaunch launch.launch
 ```
+I am attaching the link to see the video of the simulation
+---
+https://www.youtube.com/watch?v=Cgffi7Wz9xo
+
+Now you can see the the concetual map for the assignment:
+
+[SecondAsmRT.pdf](https://github.com/ElSibo/Second_Assignment/files/7702802/SecondAsmRT.pdf)
+
+
