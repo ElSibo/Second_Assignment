@@ -119,6 +119,6 @@ https://www.youtube.com/watch?v=Cgffi7Wz9xo
 
 Now you can see the the concetual map for the assignment:
 
-[SecondAsmRT.pdf](https://github.com/ElSibo/Second_Assignment/files/7702802/SecondAsmRT.pdf)
+![Screeshot](https://github.com/ElSibo/Second_Assignment/files/7702802/SecondAsmRT.pdf)
 
 
